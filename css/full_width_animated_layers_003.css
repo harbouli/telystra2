@@ -64,7 +64,7 @@
 .ps_control_bsquare .carousel-control-prev:hover,
 .ps_control_bsquare .carousel-control-next:hover{
  color: #fff;
- background: #023682;
+ background: #76CAE2;
 }
 .ps_control_bsquare .carousel-control-prev > span:nth-child(1){
  left: 45%;
@@ -116,7 +116,7 @@
   text-align: center;
   padding: 13px 35px;
   white-space: nowrap;
-  background-color: #023682;
+  background-color: #76CAE2;
   letter-spacing: 0px;
   display: inline-block;
   text-decoration: none;
